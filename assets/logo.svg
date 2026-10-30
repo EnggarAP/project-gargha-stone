@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 110">
+  <g fill="none" stroke-linecap="square">
+    <path d="M88 18H48A34 34 0 0 0 14 52v8a34 34 0 0 0 34 34h40V60H55" stroke="#20221d" stroke-width="8"/>
+    <path d="M48 18h40M88 94h22M14 60h22" stroke="#b79a68" stroke-width="5"/>
+    <circle cx="98" cy="18" r="5" fill="#b79a68" stroke="none"/>
+  </g>
+  <text x="132" y="56" font-family="Georgia,serif" font-size="39" letter-spacing="5" fill="#20221d">GHARGHA</text>
+  <text x="136" y="88" font-family="Arial,sans-serif" font-size="20" letter-spacing="11" fill="#77786f">STONE</text>
+</svg>
