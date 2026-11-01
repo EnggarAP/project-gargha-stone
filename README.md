@@ -12,7 +12,7 @@ Buka `script.js`, lalu ubah:
 `const WHATSAPP_NUMBER = "6281200000000";`
 menjadi nomor WhatsApp bisnis Anda (format internasional, tanpa + atau spasi).
 
-Ubah juga nomor WhatsApp, email, alamat workshop, Instagram, profil perusahaan, spesifikasi produk, dan foto sesuai data asli perusahaan.
+Ubah juga nomor WhatsApp, email, alamat workshop, Instagram, profil perusahaan, spesifikasi produk, dan foto sesuai data asli perusahaan. Nilai MOQ contoh saat ini adalah 1 unit untuk semua produk; sesuaikan properti `moq` di `script.js` dengan kebijakan resmi perusahaan. Pilihan Sea Freight dan Air Freight merupakan opsi informasi; biaya, jadwal, dan ketersediaan perlu dikonfirmasi saat penawaran.
 
 ## Fitur
 - Responsive desktop dan mobile
@@ -21,7 +21,9 @@ Ubah juga nomor WhatsApp, email, alamat workshop, Instagram, profil perusahaan, 
 - Filter kategori produk
 - Detail produk dan spesifikasi
 - Tombol pemesanan WhatsApp
-- Form Request for Quotation (RFQ) ke WhatsApp
+- Form Request for Quotation (RFQ) ke WhatsApp, termasuk jumlah pesanan dan pilihan pengiriman
+- Informasi MOQ (minimum order quantity) pada detail produk dan validasi jumlah pesanan
+- Pilihan pengiriman Sea Freight (laut), Air Freight (udara), atau konsultasi
 - Custom order, gallery, workshop, export information
 - Unduh Company Profile dan Product Catalog PDF (template awal)
 
